@@ -1,0 +1,4 @@
+baseURL = "https://inct-iconiot.github.io/"
+languageCode = "en-us"
+title = "ICON IoT INCT"
+theme = "hugo-universal-theme"
