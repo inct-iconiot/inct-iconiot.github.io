@@ -69,20 +69,14 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 2
     name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
+    url = "https://github.com/inct-iconiot/"
     pre = "<i class='fab fa-2x fa-github'></i>"
 
 [[menu.topbar]]
-    weight = 3
-    name = "Facebook"
-    url = "https://facebook.com"
-    pre = "<i class='fab fa-2x fa-facebook'></i>"
-
-[[menu.topbar]]
-    weight = 4
-    name = "X"
-    url = "https://x.com"
-    pre = "<i class='fab fa-2x fa-x-twitter'></i>"
+    weight = 1
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/company/iconiot"
+    pre = "<i class='fab fa-2x fa-linkedin'></i>"
 
 [[menu.topbar]]
     weight = 5
@@ -215,10 +209,9 @@ pluralizelisttitles = false
 [params.see_more]
     enable = true
     icon = "far fa-file-alt"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    title = "Want to know more?"
+    link_url = "https://iconiot.ic.unicamp.br/"
+    link_text = "Check our oficial website"
 
 [params.clients]
     enable = true
